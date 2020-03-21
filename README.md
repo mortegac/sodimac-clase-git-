@@ -1,5 +1,6 @@
 
 # Mi primer repositorio remoto
 
-Clase de Git
+.- Clase de Git
 
+.- Ejemplo cambios en repositorio remoto
